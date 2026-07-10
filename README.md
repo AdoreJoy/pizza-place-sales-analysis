@@ -32,7 +32,7 @@ This project analyzes four linked datasets — Orders, Order Details, Pizzas, an
 
 ## Files
 
-- `Pizza_Place_Sales_Analysis.ipynb` — full analysis notebook with code, charts, and insights
+- `pizza_place_sales_analysis.ipynb` — full analysis notebook with code, charts, and insights
 
 ## Data Source
 
