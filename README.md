@@ -42,3 +42,5 @@ the Tech4Africans Data Science Bootcamp, Cohort 7.
 ## Author
 
 Ayomide Akinwumi(Adorejoy) — Data Science student, Tech4Africans Bootcamp (Cohort 7)
+
+This readme file will help in setting up this project
